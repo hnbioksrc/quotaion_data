@@ -1,5 +1,5 @@
 
-export const QuotaionData = [
+const QuotaionData = [
   //화장품 - 자극/사용성 (안전성)
   {
     type: '화장품',
