@@ -3405,31 +3405,6 @@
     "img": "/images/function_4.jpg"
   },
   {
-    "type": "화장품",
-    "mainCategory": "기능성 화장품",
-    "middleCategory": "비듬 및 가려움 완화",
-    "subCategory": "4주",
-    "detailCategory": "",
-    "subject": 20,
-    "price": 1400000,
-    "desc": "",
-    "addition": {},
-    "fixedOption": {
-      "optionENG": {
-        "price": 800000,
-        "quantity": 1,
-        "name": "영문 보고서(부가세 별도)",
-        "times": 0
-      },
-      "optionCN": {
-        "price": 700000,
-        "quantity": 1,
-        "name": "중문 보고서(부가세 별도)",
-        "times": 0
-      }
-    }
-  },
-  {
     "type": "건기식",
     "mainCategory": "모발건강",
     "middleCategory": "",
