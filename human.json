@@ -95,11 +95,11 @@
   {
     "type": "화장품",
     "mainCategory": "자극/사용성(안전성)",
-    "middleCategory": "자극감 평가시험",
+    "middleCategory": "안자극 인체적용 평가시험",
     "subCategory": "1회",
     "detailCategory": "",
     "subject": 20,
-    "price": 150000,
+    "price": 700000,
     "desc": "- 민감성 패널 또는 피부, 1주",
     "addition": {},
     "fixedOption": {
