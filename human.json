@@ -53,8 +53,8 @@
     "subCategory": "1회",
     "detailCategory": "",
     "subject": 20,
-    "price": 1250000,
-    "desc": "- 8종까지 가능",
+    "price": 187500,
+    "desc": "- 8종까지 가능, 300(DC)",
     "addition": {},
     "fixedOption": {
       "optionENG": {
@@ -102,6 +102,31 @@
         "name": "코스맥스 1종"
       }
     },
+    "fixedOption": {
+      "optionENG": {
+        "price": 200000,
+        "quantity": 1,
+        "name": "영문 보고서(부가세 별도)",
+        "times": 0
+      },
+      "optionCN": {
+        "price": 200000,
+        "quantity": 1,
+        "name": "중문 보고서(부가세 별도)",
+        "times": 0
+      }
+    }
+  },
+      {
+    "type": "화장품",
+    "mainCategory": "자극/사용성(안전성)",
+    "middleCategory": "소아피부과 평가시험",
+    "subCategory": "1회",
+    "detailCategory": "",
+    "subject": 20,
+    "price": 1250000,
+    "desc": "- 8종까지 가능",
+    "addition": {},
     "fixedOption": {
       "optionENG": {
         "price": 200000,
