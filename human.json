@@ -46,6 +46,31 @@
       }
     }
   },
+    {
+    "type": "화장품",
+    "mainCategory": "자극/사용성(안전성)",
+    "middleCategory": "일차자극 평가시험(병원IRB)",
+    "subCategory": "1회",
+    "detailCategory": "",
+    "subject": 20,
+    "price": 1250000,
+    "desc": "- 900 (DC)",
+    "addition": {},
+    "fixedOption": {
+      "optionENG": {
+        "price": 200000,
+        "quantity": 1,
+        "name": "영문 보고서(부가세 별도)",
+        "times": 0
+      },
+      "optionCN": {
+        "price": 200000,
+        "quantity": 1,
+        "name": "중문 보고서(부가세 별도)",
+        "times": 0
+      }
+    }
+  },
   {
     "type": "화장품",
     "mainCategory": "자극/사용성(안전성)",
